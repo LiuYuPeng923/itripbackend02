@@ -1,0 +1,2472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="itripbiz:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98411a3b-90fa-4bd8-ae22-e0919d9f2e46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/Demo001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/java/MybatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/java/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/resources/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/MybatisUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/UserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo001/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/BillTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/Util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/dao/BillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/dao/providerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/pojo/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/java/pojo/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/resources/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/resources/ProviderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/BillTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/ProviderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/Util/MyBatisUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/dao/BillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/dao/providerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/pojo/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo002/target/classes/pojo/Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/Demo003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/Util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/dao/AddressMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/resources/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/resources/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/Util/MyBatisUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/dao/AddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/pojo/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo003/target/classes/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/Demo003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/Demo004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/src/main/java/dao/TGoodDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/src/main/java/pojo/TGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/src/main/java/pojo/TGoodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo004/src/main/resources/resources/TGoodDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDEA workSpace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring001/.idea/Spring001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring001/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring001/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/appcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/applist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backend/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/backendlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appinfoadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appinfolist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appinfomodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appinfoview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appversionadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/appversionmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/common/js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/developer/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/WEB-INF/jsp/devlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/bootstrap-progressbar-3.3.4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/jqvmap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/maps/jquery-jvectormap-2.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/css/nprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/cropper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/picture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/prod-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/prod-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/prod-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/prod-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/prod-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/images/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/datepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/moment/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/nprogress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/js/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localcss/appinfoadd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localcss/appinfolist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localcss/applist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appcheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appinfoadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appinfolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appinfomodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appinfoview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/applist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appversionadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/appversionmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/localjs/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/air.net.machinarium.Machinarium.GP-V1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/air.net.machinarium.Machinarium.GP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.bithack.apparatus-V1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.bithack.apparatus-V1.1.2.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.bithack.apparatus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.doodleapps.powdertoy-V1.1.2.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.doodleapps.powdertoy-V1.1.3.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.doodleapps.powdertoy-V1.1.31.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.doodleapps.powdertoy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.google.android.inputmethod.pinyin-V1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.google.android.inputmethod.pinyin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.katecca.screenofflockdonate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.kleientertainment.doNotStarvePocket-V1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.kleientertainment.doNotStarvePocket-V1.1.2.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.kleientertainment.doNotStarvePocket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.lbe.security.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.momocorp.o2jamu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.plexnor.gravityscreenoffpro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.sp.protector.free.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.speedsoftware.rootexplorer-V1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appinfodb/src/main/webapp/statics/uploadfiles/com.speedsoftware.rootexplorer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itripbackend/itrip-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/SwaggerConfig/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/controller/TokenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/MailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/TokenServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/applicationContext-mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/spring-redis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-auth/src/test/java/ceshi/Ceshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/dto/Dto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/dto/InputDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripAreaDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelExtendProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelTempStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelTradingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripLabelDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripOrderLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripProductStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripTradeEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripUserLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/ItripAreaDicVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/ItripImageVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/ItripLabelDicVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/ItripTokenVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/ItripWechatTokenVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/TempVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripAddCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripHotelDescVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripListCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripScoreCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripSearchCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/HotelVideoDescVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchDetailsHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchFacilitiesHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchPolicyHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/SearchHotCityVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotel/SearchHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotelroom/ItripHotelRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/hotelroom/SearchHotelRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripAddHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripListHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripModifyHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripOrderLinkUserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripPersonalHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripPersonalOrderRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ItripSearchOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/PreAddOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/RoomStoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/order/ValidateRoomStoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/store/StoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/userinfo/ItripAddUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/userinfo/ItripModifyUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/userinfo/ItripSearchUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/userinfo/ItripUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/HotCity/HotCityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/HotelVideoDesc/HotelVideoDescServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalRoomInfo/RoomInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotel/ItripHotelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotel/ItripHotelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelextendproperty/ItripHotelExtendPropertyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelextendproperty/ItripHotelExtendPropertyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelfeature/ItripHotelFeatureMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelfeature/ItripHotelFeatureMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelorder/ItripHotelOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelorder/ItripHotelOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelroom/ItripHotelRoomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hotelroom/ItripHotelRoomMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltradingarea/ItripHotelTradingAreaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltradingarea/ItripHotelTradingAreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/image/ItripImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/image/ItripImageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/labeldic/ItripLabelDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/labeldic/ItripLabelDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/orderlinkuser/ItripOrderLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/orderlinkuser/ItripOrderLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/productstore/ItripProductStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/productstore/ItripProductStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/tradeends/ItripTradeEndsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/tradeends/ItripTradeEndsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/user/ItripUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/user/ItripUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/userlinkuser/ItripUserLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/userlinkuser/ItripUserLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/spring-redis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-trade/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/ChineseToEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/DtoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/EmptyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/HtmlEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/SQLTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/SystemConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/UrlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/UserAgentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/ValidationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/dataSources/66a8ddbd-7fa7-4e69-a4e9-02e63522f85d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/controller/BillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/controller/ProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/dao/BillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/dao/ProviderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/dao/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/DelBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/RoleInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/BillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/BillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/ProviderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/ProviderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/java/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/mapper/ProviderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/bill/billadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/bill/billlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/bill/billmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/bill/billview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/bill/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/pro/provideradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/pro/providerlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/pro/providermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/pro/providerview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/pwdmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/usermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/jsp/user/userview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/jg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/src/main/webapp/statics/js/userview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/controller/BillController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/controller/ProviderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/dao/BillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/dao/ProviderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/dao/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/mapper/ProviderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/DelBill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/RoleInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/BillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/BillServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/ProviderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/ProviderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/classes/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/controller/BillController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/controller/ProviderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/dao/BillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/dao/ProviderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/dao/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/mapper/ProviderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/DelBill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/RoleInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/BillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/BillServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/ProviderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/ProviderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/bill/billadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/bill/billlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/bill/billmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/bill/billview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/bill/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/pro/provideradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/pro/providerlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/pro/providermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/pro/providerview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/pwdmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/usermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/jsp/user/userview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/commons-pool2-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jackson-annotations-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jackson-core-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jackson-databind-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-plus-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-plus-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-plus-generate-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-plus-support-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/pagehelper-5.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/jg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbms001/target/smbms001/statics/js/userview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbmsDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbmsDemo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbmsDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smbmsDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/main/java/com/example/comsumer/ComsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/main/java/com/example/comsumer/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/main/java/com/example/comsumer/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/comsumer/src/test/java/com/example/comsumer/ComsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/src/main/java/com/example/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/src/main/java/com/example/gateway/PreFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/gateway/src/test/java/com/example/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/src/main/java/com/example/provider/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/src/main/java/com/example/provider/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/provider/src/test/java/com/example/provider/ProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/src/main/java/com/example/server/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/server/src/test/java/com/example/server/ServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/springcloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud2/springcloud2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/java/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/java/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/java/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/resources/spring-redis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/src/test/java/test/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/ssm03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm03/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbine/turbine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm002/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm002/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm002/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-beans/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-utils/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-dao/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-biz/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-sreach/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-trade/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-auth/target/" />
+    <ignored path="$PROJECT_DIR$/itrip-search/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="itripdb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="itripdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="itripdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="itripdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/AddUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7981">
+              <caret line="372" column="9" selection-start-line="372" selection-start-column="9" selection-end-line="372" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripTradeEnds.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" selection-start-line="25" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddComent/ComentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddUserLinkedUser/AddLinkUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/image/ImageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/TravelType/TravelTypeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\IDEA workSpace\itripbackend2\itrip-auth</dir>
+      <dir>E:\IDEA workSpace\itripbackend2\itrip-auth\target</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/QueryLinkUser/QueryLinkUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/ModifyLinkUser/ModifyLinkUser.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/ModifyLinkUser/ModifyLinkUserService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/ModifyLinkUser/ModifyLinkUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/DeletLinkUser/DelLinkUserService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/DeletLinkUser/DelLinkUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddUserLinkedUser/AddLinkUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/TargetImg/RoomImgServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/SwaggerConfig/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/HotelController.java" />
+        <option value="$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripHotelTempStore.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/order/OrderService.java" />
+        <option value="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.java" />
+        <option value="$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/resources/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/order/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalOrder/GetPersonalOrederService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalOrder/GetPersonalOrderService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalOrder/GetPersonalOrderServiceIpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalRoomInfo/RoomInfoService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PersonalRoomInfo/RoomInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/GetOrderPage/GetOrderPageService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/GetOrderPage/GetOrderPageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/SuccessDerInfo/QuerySuccessDerInfoService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/SuccessDerInfo/QuerySuccessDerInfoSeviceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PreOrderInfo/PreOrderInfoService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/PreOrderInfo/PreOrederInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/AddUserController.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/resources/alipay.properties" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/bean/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/resources/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/bean/AlipayBean.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/service/AliPayService.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/service/AliPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/service/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/controller/TradeController.java" />
+        <option value="$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/ValidationToken.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddComent/CommentService.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddComent/ComentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/CommentController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="410" />
+    <option name="y" value="105" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="AddComent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="AddUserLinkedUser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="trade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="trade" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="trade" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-trade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="trade" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend2" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itrip.SwaggerConfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA workSpace\itripbackend2\itrip-trade\src\main\webapp\WEB-INF" />
+      <recent name="E:\IDEA workSpace\itripbackend2\itrip-trade\src\main\java\cn\itrip\trade\bean" />
+      <recent name="E:\IDEA workSpace\itripbackend2\itrip-trade\src\main\resources" />
+      <recent name="E:\IDEA workSpace\itripbackend2\itrip-biz\src\main\resources" />
+      <recent name="E:\IDEA workSpace\itripbackend2\itrip-sreach\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.apache-tomcat-8.5.47">
+    <configuration name="Ceshi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ceshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ceshi" />
+      <option name="MAIN_CLASS_NAME" value="ceshi.Ceshi" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ceshi.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ceshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ceshi" />
+      <option name="MAIN_CLASS_NAME" value="ceshi.Ceshi" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itripsreach" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolrTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearch.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itripsreach" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSearch" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itripauth" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_itripbackend2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61614" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apache-tomcat-8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="apache-tomcat-8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="itripbiz:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/biz" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_itripbackend2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61614" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="56258" />
+        <option name="visualVMId" value="937366515935600" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="itripbiz:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Ceshi" />
+      <item itemvalue="JUnit.Ceshi.test" />
+      <item itemvalue="JUnit.test" />
+      <item itemvalue="JUnit.TestSearch.test01" />
+      <item itemvalue="JUnit.SolrTest" />
+      <item itemvalue="Tomcat Server.apache-tomcat-8.5.47" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolrTest" />
+        <item itemvalue="JUnit.TestSearch.test01" />
+        <item itemvalue="JUnit.Ceshi" />
+        <item itemvalue="JUnit.Ceshi.test" />
+        <item itemvalue="JUnit.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98411a3b-90fa-4bd8-ae22-e0919d9f2e46" name="Default Changelist" comment="" />
+      <created>1580979190460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580979190460</updated>
+      <workItem from="1580979194436" duration="1673000" />
+      <workItem from="1581045052461" duration="29000" />
+      <workItem from="1581045528093" duration="1386000" />
+      <workItem from="1581313889555" duration="7362000" />
+      <workItem from="1581335866413" duration="50000" />
+      <workItem from="1581383137008" duration="15714000" />
+      <workItem from="1581467193000" duration="8424000" />
+      <workItem from="1581508693209" duration="6000" />
+      <workItem from="1581555350958" duration="520000" />
+      <workItem from="1581556194591" duration="710000" />
+      <workItem from="1581570412242" duration="3104000" />
+      <workItem from="1581642069687" duration="8428000" />
+      <workItem from="1581650974140" duration="4091000" />
+      <workItem from="1581656014412" duration="322000" />
+      <workItem from="1581656533570" duration="19080000" />
+      <workItem from="1581730124060" duration="617000" />
+      <workItem from="1581746851966" duration="8227000" />
+      <workItem from="1581839932821" duration="11512000" />
+      <workItem from="1581904378550" duration="9825000" />
+      <workItem from="1581989899126" duration="3809000" />
+      <workItem from="1582006518018" duration="4488000" />
+      <workItem from="1582176219299" duration="1492000" />
+      <workItem from="1582249566445" duration="6882000" />
+      <workItem from="1582430497958" duration="10540000" />
+      <workItem from="1582510675526" duration="3847000" />
+      <workItem from="1582524376514" duration="9675000" />
+      <workItem from="1582609047311" duration="9741000" />
+      <workItem from="1582690191449" duration="822000" />
+      <workItem from="1582705877381" duration="10881000" />
+      <workItem from="1582774091313" duration="10399000" />
+      <workItem from="1582850302462" duration="12534000" />
+      <workItem from="1582867434332" duration="2258000" />
+      <workItem from="1582870504476" duration="11542000" />
+      <workItem from="1582891228781" duration="93000" />
+      <workItem from="1582957493791" duration="2235000" />
+      <workItem from="1582969750948" duration="4572000" />
+      <workItem from="1583053556464" duration="7603000" />
+      <workItem from="1583123443568" duration="9758000" />
+      <workItem from="1583209655963" duration="14952000" />
+      <workItem from="1583306754599" duration="5482000" />
+      <workItem from="1583381335223" duration="13942000" />
+      <workItem from="1583468600500" duration="3806000" />
+      <workItem from="1583665781897" duration="5362000" />
+      <workItem from="1583727565338" duration="13140000" />
+      <workItem from="1583746094978" duration="1331000" />
+      <workItem from="1583747538074" duration="499000" />
+      <workItem from="1583748160448" duration="2936000" />
+      <workItem from="1583815340559" duration="8781000" />
+      <workItem from="1583988239379" duration="10848000" />
+      <workItem from="1584075799460" duration="9373000" />
+      <workItem from="1584329081986" duration="3905000" />
+      <workItem from="1584339619138" duration="248000" />
+      <workItem from="1584339980404" duration="5916000" />
+      <workItem from="1584420565964" duration="357000" />
+      <workItem from="1584421416320" duration="400000" />
+      <workItem from="1584422215858" duration="9025000" />
+      <workItem from="1584533319942" duration="1419000" />
+      <workItem from="1584593328103" duration="2641000" />
+      <workItem from="1584618367367" duration="647000" />
+      <workItem from="1584677501065" duration="2232000" />
+      <workItem from="1584787161999" duration="273000" />
+      <workItem from="1586412133267" duration="33000" />
+      <workItem from="1586756097719" duration="4530000" />
+      <workItem from="1586766908830" duration="3543000" />
+      <workItem from="1586778931066" duration="229000" />
+      <workItem from="1586823729687" duration="1876000" />
+      <workItem from="1586825725590" duration="3996000" />
+      <workItem from="1586843630376" duration="1166000" />
+      <workItem from="1586845178646" duration="406000" />
+      <workItem from="1586845611453" duration="2213000" />
+      <workItem from="1587109507466" duration="5243000" />
+      <workItem from="1587274951489" duration="1267000" />
+      <workItem from="1587357189444" duration="4627000" />
+      <workItem from="1587453040929" duration="1283000" />
+      <workItem from="1587632374144" duration="899000" />
+      <workItem from="1589016267561" duration="4581000" />
+      <workItem from="1589092146627" duration="1242000" />
+      <workItem from="1589266372253" duration="654000" />
+      <workItem from="1591157920976" duration="1252000" />
+      <workItem from="1591266174308" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_test - 2020.02.17 at 14h 20m 54s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.02.17 at 14h 33m 43s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ceshi_test - 2020.02.17 at 14h 43m 31s.xml">
+      <configuration name="Ceshi.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ceshi - 2020.02.17 at 16h 14m 00s.xml">
+      <configuration name="Ceshi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSearch_test01 - 2020.02.21 at 11h 17m 39s.xml">
+      <configuration name="TestSearch.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrTest - 2020.02.24 at 13h 48m 55s.xml">
+      <configuration name="SolrTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="381454000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33847186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.9442815" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.31231672" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="16" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32573727" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34048256" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.6642229" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32258064" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32991204" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32573727" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="54" column="91" selection-start-line="54" selection-start-column="91" selection-end-line="54" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="239" column="22" selection-start-line="239" selection-start-column="22" selection-end-line="239" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-trade/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-utils/src/main/java/cn/itrip/common/ValidationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-beans/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/applicationContext-mail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-search/src/main/java/cn/itrip/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="84" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="100" column="62" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/controller/TokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-search/src/main/java/cn/itrip/search/dao/BaseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/MailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/SmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/service/TokenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/java/cn/itrip/auth/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="168" column="39" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/bean/AlipayBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/bean/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="152" column="18" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-trade/src/main/java/cn/itrip/trade/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/order/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/order/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/HotelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2766">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-search/src/main/java/cn/itrip/search/beans/ItripHotelVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-search/src/main/java/cn/itrip/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/vo/comment/ItripAddCommentVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3151">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddComent/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/controller/AddUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7981">
+          <caret line="372" column="9" selection-start-line="372" selection-start-column="9" selection-end-line="372" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-auth/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripTradeEnds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddComent/ComentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/AddUserLinkedUser/AddLinkUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/image/ImageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-beans/src/main/java/cn/itrip/beans/pojo/ItripComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-biz/src/main/java/cn/itrip/service/TravelType/TravelTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrip-dao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>itripauth:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itripauth</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
